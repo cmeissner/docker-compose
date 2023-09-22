@@ -33,7 +33,7 @@ install_requires = [
     'distro >= 1.5.0, < 2',
     'docker[ssh] >= 5',
     'dockerpty >= 0.4.1, < 1',
-    'jsonschema >= 2.5.1, < 4',
+    'jsonschema >= 2.5.1',
     'python-dotenv >= 0.13.0, < 1',
 ]
 
